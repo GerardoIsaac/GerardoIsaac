@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gerardo Castañeda</h1>
+<h1 align="center">Hi 👋 I'm Gerardo Castañeda</h1>
 <h3 align="center">A Frontend Developer looking to share my passion to the world</h3>
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
